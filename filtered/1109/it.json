@@ -1,0 +1,593 @@
+[
+  {
+    "created_at": "Wed Nov 09 00:25:08 +0000 2022",
+    "id": 1590138383648854016,
+    "text": "RT @cidafukushima: #BrazilianSpring #BrazilWasStolen",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "qht",
+    "hashtags": [
+      {
+        "text": "BrazilianSpring",
+        "indices": [
+          19,
+          35
+        ]
+      },
+      {
+        "text": "BrazilWasStolen",
+        "indices": [
+          36,
+          52
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cidafukushima",
+        "name": "cfuku",
+        "id": 981689225191088128,
+        "id_str": "981689225191088128",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "user_id": 3067368280,
+    "user_name": "Haroldo Batista 22\ud83d\udc63\ud83c\udde7\ud83c\uddf7",
+    "user_screenname": "haroldo1668",
+    "user_followers_count": 205,
+    "retweet_parent_id": 1590129555586834432
+  },
+  {
+    "created_at": "Wed Nov 09 08:33:53 +0000 2022",
+    "id": 1590261381596876801,
+    "text": "RT @durezzadelviver: Francia, nucleare.\nLinea rossa: stima di rimessa in esercizio al 10 settembre.\nLinea gialla: come sta andando verament\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "durezzadelviver",
+        "name": "La durezza del vivere \ud83c\uddec\ud83c\uddf7",
+        "id": 2341987590,
+        "id_str": "2341987590",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "user_id": 10292482,
+    "user_name": "Luca Bertagnolio",
+    "user_screenname": "lucaberta",
+    "user_followers_count": 2156,
+    "retweet_parent_id": 1590244705224503297
+  },
+  {
+    "created_at": "Wed Nov 09 09:16:22 +0000 2022",
+    "id": 1590272072902746112,
+    "text": "RT @NathalieTocci: La vera minaccia nucleare. Il mio commento su La Stampa https://t.co/I7xwMI51Hs",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "NathalieTocci",
+        "name": "Nathalie Tocci",
+        "id": 880192789,
+        "id_str": "880192789",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "user_id": 1022538426,
+    "user_name": "Bianca Maria Pes",
+    "user_screenname": "Rolfi39",
+    "user_followers_count": 346,
+    "retweet_parent_id": 1590222972672913408
+  },
+  {
+    "created_at": "Wed Nov 09 09:41:28 +0000 2022",
+    "id": 1590278389503434752,
+    "text": "RT @SimoBenedettini: . @GiZollino intervistato da @LaStampa: \"quello che \u00e8 cambiato sul nucleare non \u00e8 tanto il muro ideologico, duro da sg\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "SimoBenedettini",
+        "name": "Simona Benedettini",
+        "id": 433697780,
+        "id_str": "433697780",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "GiZollino",
+        "name": "Giuseppe Zollino",
+        "id": 936922153,
+        "id_str": "936922153",
+        "indices": [
+          23,
+          33
+        ]
+      },
+      {
+        "screen_name": "LaStampa",
+        "name": "La Stampa",
+        "id": 29416653,
+        "id_str": "29416653",
+        "indices": [
+          50,
+          59
+        ]
+      }
+    ],
+    "user_id": 936922153,
+    "user_name": "Giuseppe Zollino",
+    "user_screenname": "GiZollino",
+    "user_followers_count": 3462,
+    "retweet_parent_id": 1590277823193059329
+  },
+  {
+    "created_at": "Wed Nov 09 13:10:57 +0000 2022",
+    "id": 1590331107731390470,
+    "text": "Se scoppia una guerra nucleare, fortunato chi muore...",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [],
+    "user_id": 1574806085134852100,
+    "user_name": "Mapporc",
+    "user_screenname": "Poidicecheuno",
+    "user_followers_count": 0,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Wed Nov 09 13:10:58 +0000 2022",
+    "id": 1590331111926034433,
+    "text": "@Sentenza_Max @M49liberorso Con l\u2019energia solare non si risolvono tutte le esigenze\nPer eliminare il gas servirebbe una fonte costante e stabile e eolico e solare non hanno queste caratteristiche\nOggi l\u2019unica fonte potrebbe essere il nucleare \u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "Sentenza_Max",
+        "name": "Marco \ud83c\uddee\ud83c\uddf9\ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6",
+        "id": 1138825356985753600,
+        "id_str": "1138825356985753600",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "M49liberorso",
+        "name": "M49",
+        "id": 1288086111806521349,
+        "id_str": "1288086111806521349",
+        "indices": [
+          14,
+          27
+        ]
+      }
+    ],
+    "user_id": 139502625,
+    "user_name": "antonio bortoli",
+    "user_screenname": "antonio_bortoli",
+    "user_followers_count": 256,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Wed Nov 09 15:55:43 +0000 2022",
+    "id": 1590372572603899905,
+    "text": "RT @SavetheDogsSTD: Oggi siamo stati chiamati dagli impiegati della centrale nucleare di Cernavoda, in Romania, per soccorrere una mamma co\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "SavetheDogsSTD",
+        "name": "Save the Dogs and Other Animals",
+        "id": 1117093452,
+        "id_str": "1117093452",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "user_id": 2876249524,
+    "user_name": "welfare",
+    "user_screenname": "alessandro1846",
+    "user_followers_count": 1381,
+    "retweet_parent_id": 1590026361048997888
+  },
+  {
+    "created_at": "Wed Nov 09 16:37:22 +0000 2022",
+    "id": 1590383054194757633,
+    "text": "\"Svegliatevi, non dormite! Svegliatevi, figli Miei!\nSarete sorpresi dall'improvviso uso dell'energia nucleare, che mi porter\u00e0 ad agire con la Mia Giustizia. Non permetter\u00f2 all'uomo di distruggere s\u00e9 stesso o la creazione\n\n29 OTTOBRE 2022 - MESSAGGIO DI NOSTRO SIGNORE GES\u00d9 CRISTO",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [],
+    "user_id": 1574796159004073984,
+    "user_name": "Alessandro da Rimini",
+    "user_screenname": "Alessan73346247",
+    "user_followers_count": 98,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Wed Nov 09 17:24:37 +0000 2022",
+    "id": 1590394945042808833,
+    "text": "RT @m_spagna: #Mieli lo sa, ne ha certezza compiuta. Non c\u2019\u00e8 alcun rischio di uno scontro nucleare quindi avanti con la guerra. \nPoi le bol\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [
+      {
+        "text": "Mieli",
+        "indices": [
+          14,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "m_spagna",
+        "name": "Michele",
+        "id": 2414699069,
+        "id_str": "2414699069",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "user_id": 2764203485,
+    "user_name": "Carmine\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "user_screenname": "d_acierno",
+    "user_followers_count": 1725,
+    "retweet_parent_id": 1590308699964264449
+  },
+  {
+    "created_at": "Wed Nov 09 17:58:49 +0000 2022",
+    "id": 1590403551742038016,
+    "text": "@Kezi___ @nicola_rovetta @FranFerrante @GiaSilvestrini @MgMidu @A_LisaCorrado @erealacci @liviodesantoli @gonufrio @robdellaseta @StefanoCiafani @beppegambis @GianniVernetti Le economie emergenti saranno pi\u00f9 energivore di quelle mature, stagnanti, dominate dal terziario.\nE infatti secondo molti enti internazionali l'incremento di produzione di energia nucleare ci sar\u00e0 soprattutto nei paesi in via di sviluppo.",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "Kezi___",
+        "name": "Kezi",
+        "id": 1549816625658044416,
+        "id_str": "1549816625658044416",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "nicola_rovetta",
+        "name": "nicola rovetta",
+        "id": 3517689497,
+        "id_str": "3517689497",
+        "indices": [
+          9,
+          24
+        ]
+      },
+      {
+        "screen_name": "FranFerrante",
+        "name": "Francesco Ferrante",
+        "id": 419316234,
+        "id_str": "419316234",
+        "indices": [
+          25,
+          38
+        ]
+      },
+      {
+        "screen_name": "GiaSilvestrini",
+        "name": "Gianni Silvestrini",
+        "id": 976652664,
+        "id_str": "976652664",
+        "indices": [
+          39,
+          54
+        ]
+      },
+      {
+        "screen_name": "MgMidu",
+        "name": "Mariagrazia Midulla",
+        "id": 351500115,
+        "id_str": "351500115",
+        "indices": [
+          55,
+          62
+        ]
+      },
+      {
+        "screen_name": "A_LisaCorrado",
+        "name": "Annalisa Corrado",
+        "id": 545448505,
+        "id_str": "545448505",
+        "indices": [
+          63,
+          77
+        ]
+      },
+      {
+        "screen_name": "erealacci",
+        "name": "Ermete Realacci",
+        "id": 402997564,
+        "id_str": "402997564",
+        "indices": [
+          78,
+          88
+        ]
+      },
+      {
+        "screen_name": "liviodesantoli",
+        "name": "livio de santoli",
+        "id": 932586470,
+        "id_str": "932586470",
+        "indices": [
+          89,
+          104
+        ]
+      },
+      {
+        "screen_name": "gonufrio",
+        "name": "Giuseppe Onufrio",
+        "id": 29687693,
+        "id_str": "29687693",
+        "indices": [
+          105,
+          114
+        ]
+      },
+      {
+        "screen_name": "robdellaseta",
+        "name": "Roberto Della Seta",
+        "id": 414660035,
+        "id_str": "414660035",
+        "indices": [
+          115,
+          128
+        ]
+      },
+      {
+        "screen_name": "StefanoCiafani",
+        "name": "Stefano Ciafani",
+        "id": 501818633,
+        "id_str": "501818633",
+        "indices": [
+          129,
+          144
+        ]
+      },
+      {
+        "screen_name": "beppegambis",
+        "name": "Beppe Gamba",
+        "id": 1387420740,
+        "id_str": "1387420740",
+        "indices": [
+          145,
+          157
+        ]
+      },
+      {
+        "screen_name": "GianniVernetti",
+        "name": "Gianni Vernetti \ud83c\uddfa\ud83c\udde6",
+        "id": 19682207,
+        "id_str": "19682207",
+        "indices": [
+          158,
+          173
+        ]
+      }
+    ],
+    "user_id": 987198284,
+    "user_name": "Claudio Zito",
+    "user_screenname": "EligioAldoVere",
+    "user_followers_count": 123,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Wed Nov 09 19:29:44 +0000 2022",
+    "id": 1590426431653564416,
+    "text": "@Motusinfinevel1 @mariosalis @MarcoFattorini Un po' di storia della guerra fredda e cosa \u00e8 la dissuasione nucleare: troppo chiedere a lui, e ai giornalisti che gli reggono il moccolo. Hanno paura di sciuparlo!?!",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "Motusinfinevel1",
+        "name": "MotusInFineVelocior. \u0421\u043b\u0430\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438!",
+        "id": 1487447628577132545,
+        "id_str": "1487447628577132545",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "mariosalis",
+        "name": "Mario SALIS",
+        "id": 146509596,
+        "id_str": "146509596",
+        "indices": [
+          17,
+          28
+        ]
+      },
+      {
+        "screen_name": "MarcoFattorini",
+        "name": "Marco Fattorini",
+        "id": 386800314,
+        "id_str": "386800314",
+        "indices": [
+          29,
+          44
+        ]
+      }
+    ],
+    "user_id": 1125671157246644224,
+    "user_name": "Flavia Maria A. Caso",
+    "user_screenname": "flatomica",
+    "user_followers_count": 77,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Wed Nov 09 20:08:55 +0000 2022",
+    "id": 1590436292474855424,
+    "text": "@engidg @0x_iggy @Majakovsk73 I membri Brics stanno aumentando, non puoi passare la Crimea perch\u00e9 i Russi potrebbero realmente usare il nucleare.\nA un ultima cosa questa \u00e8 una guerra Russa, no la guerra di Putin perch\u00e9 la Russia ha creato Putin e non che Putin abbia creato la Russia.",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "engidg",
+        "name": "IlMagoWalter",
+        "id": 1459484157218852872,
+        "id_str": "1459484157218852872",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "screen_name": "0x_iggy",
+        "name": "iggy",
+        "id": 1540489433018818560,
+        "id_str": "1540489433018818560",
+        "indices": [
+          8,
+          16
+        ]
+      },
+      {
+        "screen_name": "Majakovsk73",
+        "name": "Majakovsk",
+        "id": 494418886,
+        "id_str": "494418886",
+        "indices": [
+          17,
+          29
+        ]
+      }
+    ],
+    "user_id": 1419378132604309507,
+    "user_name": "Bianco Denis",
+    "user_screenname": "DenisBianco",
+    "user_followers_count": 261,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Wed Nov 09 21:30:45 +0000 2022",
+    "id": 1590456886499110912,
+    "text": "RT @m_spagna: #Mieli lo sa, ne ha certezza compiuta. Non c\u2019\u00e8 alcun rischio di uno scontro nucleare quindi avanti con la guerra. \nPoi le bol\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [
+      {
+        "text": "Mieli",
+        "indices": [
+          14,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "m_spagna",
+        "name": "Michele",
+        "id": 2414699069,
+        "id_str": "2414699069",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "user_id": 85838534,
+    "user_name": "DaveM Q\u02c31 #soon",
+    "user_screenname": "davidemonge",
+    "user_followers_count": 4002,
+    "retweet_parent_id": 1590308699964264449
+  },
+  {
+    "created_at": "Wed Nov 09 22:28:46 +0000 2022",
+    "id": 1590471486867136514,
+    "text": "Midterm. Si CAMBIA registro: EVITARE la CATASTROFE nucleare https://t.co/OGBbcVnI5n via @YouTube",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "YouTube",
+        "name": "YouTube",
+        "id": 10228272,
+        "id_str": "10228272",
+        "indices": [
+          88,
+          96
+        ]
+      }
+    ],
+    "user_id": 1238014383512485890,
+    "user_name": "Lalla Marconi",
+    "user_screenname": "LallaM40589392",
+    "user_followers_count": 862,
+    "retweet_parent_id": -1
+  }
+]

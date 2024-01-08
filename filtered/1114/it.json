@@ -1,0 +1,98 @@
+[
+  {
+    "created_at": "Mon Nov 14 14:06:21 +0000 2022",
+    "id": 1592156988922007552,
+    "text": "RT @AndreaRoventini: @stebaraz Ma poi si \u00e8 capito se @GiZollino era uno degli esperti anonimi del \"piano\" nucleare dell'On. @CarloCalenda?\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "AndreaRoventini",
+        "name": "Andrea Roventini",
+        "id": 1111691492,
+        "id_str": "1111691492",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "stebaraz",
+        "name": "Stefano Barazzetta",
+        "id": 47373547,
+        "id_str": "47373547",
+        "indices": [
+          21,
+          30
+        ]
+      },
+      {
+        "screen_name": "GiZollino",
+        "name": "Giuseppe Zollino",
+        "id": 936922153,
+        "id_str": "936922153",
+        "indices": [
+          53,
+          63
+        ]
+      },
+      {
+        "screen_name": "CarloCalenda",
+        "name": "Carlo Calenda",
+        "id": 2416067982,
+        "id_str": "2416067982",
+        "indices": [
+          124,
+          137
+        ]
+      }
+    ],
+    "user_id": 2359448190,
+    "user_name": "mario puggioni",
+    "user_screenname": "ArioPuggioni",
+    "user_followers_count": 1400,
+    "retweet_parent_id": 1592132505154785280
+  },
+  {
+    "created_at": "Mon Nov 14 17:05:04 +0000 2022",
+    "id": 1592201964460605443,
+    "text": "@GiorgioaSnaide7 @valeguerrieri In pi\u00f9 i francesi ci forniscono in energia elettrica. Meloni vuole sanzionare Macron??? La France ha l\u2019energia nucleare e la bomba atomica. \nDis-le \u00e0 ton idole.",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "GiorgioaSnaide7",
+        "name": "Snaiderbaur",
+        "id": 1585950400917667846,
+        "id_str": "1585950400917667846",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "valeguerrieri",
+        "name": "Valentina Guerrieri",
+        "id": 147131677,
+        "id_str": "147131677",
+        "indices": [
+          17,
+          31
+        ]
+      }
+    ],
+    "user_id": 1478297786,
+    "user_name": "Silvano Pravato",
+    "user_screenname": "PravatoSilvano",
+    "user_followers_count": 891,
+    "retweet_parent_id": -1
+  }
+]

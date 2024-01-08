@@ -1,0 +1,879 @@
+[
+  {
+    "created_at": "Sun Nov 13 03:05:47 +0000 2022",
+    "id": 1591628364011696128,
+    "text": "@Du_an_ra @AdamHenning75 @MassartJulien1 @Astartius @Zygomatix_C137 @LaMineDeSel1 @Pauline_Boyer_ @edf @CNDPDebatPublic Ce n'est pas \u00e9tay\u00e9. EDF, depuis longtemps exploitant et \u00e0 pr\u00e9sent constructeur de centrales nucl\u00e9aires, est juge et partie.\nQuant \u00e0 l'efficacit\u00e9/rendement/FdC/...\nhttps://t.co/fCo5KY93m0",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "Du_an_ra",
+        "name": "Du_an_ra",
+        "id": 950354157327745025,
+        "id_str": "950354157327745025",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "AdamHenning75",
+        "name": "AdamHenning",
+        "id": 950665846522830848,
+        "id_str": "950665846522830848",
+        "indices": [
+          10,
+          24
+        ]
+      },
+      {
+        "screen_name": "MassartJulien1",
+        "name": "Massart Julien",
+        "id": 1330026191097630721,
+        "id_str": "1330026191097630721",
+        "indices": [
+          25,
+          40
+        ]
+      },
+      {
+        "screen_name": "Astartius",
+        "name": "Astartius",
+        "id": 17424070,
+        "id_str": "17424070",
+        "indices": [
+          41,
+          51
+        ]
+      },
+      {
+        "screen_name": "Zygomatix_C137",
+        "name": "Zygomatix",
+        "id": 854400773203144707,
+        "id_str": "854400773203144707",
+        "indices": [
+          52,
+          67
+        ]
+      },
+      {
+        "screen_name": "LaMineDeSel1",
+        "name": "LaMineDeSel",
+        "id": 1151555190333554690,
+        "id_str": "1151555190333554690",
+        "indices": [
+          68,
+          81
+        ]
+      },
+      {
+        "screen_name": "Pauline_Boyer_",
+        "name": "Pauline Boyer",
+        "id": 3240197221,
+        "id_str": "3240197221",
+        "indices": [
+          82,
+          97
+        ]
+      },
+      {
+        "screen_name": "edf",
+        "name": "Environmental Defense Fund",
+        "id": 1159121000635744257,
+        "id_str": "1159121000635744257",
+        "indices": [
+          98,
+          102
+        ]
+      },
+      {
+        "screen_name": "CNDPDebatPublic",
+        "name": "CNDP D\u00e9bat Public",
+        "id": 1361562523,
+        "id_str": "1361562523",
+        "indices": [
+          103,
+          119
+        ]
+      }
+    ],
+    "user_id": 45957011,
+    "user_name": "Nat Makarevitch",
+    "user_screenname": "natmakar",
+    "user_followers_count": 541,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 13 07:13:59 +0000 2022",
+    "id": 1591690825599451137,
+    "text": "RT @LeSommierRgis: #Energodar #Zaporijjia \nBombardements sur une cit\u00e9 situ\u00e9e \u00e0 moins d\u20191 km de la centrale nucl\u00e9aire. Celle-ci a \u00e9t\u00e9 touch\u00e9\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [
+      {
+        "text": "Energodar",
+        "indices": [
+          19,
+          29
+        ]
+      },
+      {
+        "text": "Zaporijjia",
+        "indices": [
+          30,
+          41
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LeSommierRgis",
+        "name": "R\u00e9gis Le Sommier",
+        "id": 305072354,
+        "id_str": "305072354",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "user_id": 1469596775854059520,
+    "user_name": "alex56",
+    "user_screenname": "berre_alex",
+    "user_followers_count": 231,
+    "retweet_parent_id": 1591683765461712899
+  },
+  {
+    "created_at": "Sun Nov 13 07:46:22 +0000 2022",
+    "id": 1591698975115337729,
+    "text": "RT @LeSommierRgis: #Energodar #Zaporijjia \nBombardements sur une cit\u00e9 situ\u00e9e \u00e0 moins d\u20191 km de la centrale nucl\u00e9aire. Celle-ci a \u00e9t\u00e9 touch\u00e9\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [
+      {
+        "text": "Energodar",
+        "indices": [
+          19,
+          29
+        ]
+      },
+      {
+        "text": "Zaporijjia",
+        "indices": [
+          30,
+          41
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LeSommierRgis",
+        "name": "R\u00e9gis Le Sommier",
+        "id": 305072354,
+        "id_str": "305072354",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "user_id": 1151118101234274304,
+    "user_name": "\ud83c\uddeb\ud83c\uddf7CocoB",
+    "user_screenname": "Bretillotcorin1",
+    "user_followers_count": 600,
+    "retweet_parent_id": 1591683765461712899
+  },
+  {
+    "created_at": "Sun Nov 13 07:58:47 +0000 2022",
+    "id": 1591702099876020228,
+    "text": "RT @LeSommierRgis: #Energodar #Zaporijjia \nBombardements sur une cit\u00e9 situ\u00e9e \u00e0 moins d\u20191 km de la centrale nucl\u00e9aire. Celle-ci a \u00e9t\u00e9 touch\u00e9\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [
+      {
+        "text": "Energodar",
+        "indices": [
+          19,
+          29
+        ]
+      },
+      {
+        "text": "Zaporijjia",
+        "indices": [
+          30,
+          41
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LeSommierRgis",
+        "name": "R\u00e9gis Le Sommier",
+        "id": 305072354,
+        "id_str": "305072354",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "user_id": 1432998146360188933,
+    "user_name": "\ud83c\uddf2\ud83c\uddebmll",
+    "user_screenname": "laure_lemetayer",
+    "user_followers_count": 1663,
+    "retweet_parent_id": 1591683765461712899
+  },
+  {
+    "created_at": "Sun Nov 13 09:36:53 +0000 2022",
+    "id": 1591726787544977409,
+    "text": "@ZeSuperDupont @jabial Merci \u00e0 laydgeur pour les travaux sur la dediabolisation des d\u00e9chets nucl\u00e9aires... Mais pourquoi c'est encore \u00e0 un communiste qu'on doit \u00eatre redevable ? \ud83d\ude2d",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "ZeSuperDupont",
+        "name": "Ze Punk \u00e0 chiens",
+        "id": 15116608,
+        "id_str": "15116608",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "jabial",
+        "name": "jabial \ud83c\udf10\ud83c\uddea\ud83c\uddfa\ud83c\uddeb\ud83c\uddf7 \u0421\u043b\u0430\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \ud83c\uddfa\ud83c\udde6 \u0622\u0632\u0627\u062f\u06cc",
+        "id": 68522976,
+        "id_str": "68522976",
+        "indices": [
+          15,
+          22
+        ]
+      }
+    ],
+    "user_id": 895250417420046336,
+    "user_name": "Rick",
+    "user_screenname": "buzzastley",
+    "user_followers_count": 34,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 13 11:36:31 +0000 2022",
+    "id": 1591756894242476033,
+    "text": "@GPflieger Mais on y arrivera avec des taxes et des \u00e9oliennes, par ailleurs tr\u00e8s polluantes ???Sans @LesVertsSuisses on aurait suffisamment de centrales nucl\u00e9aires !!!",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "GPflieger",
+        "name": "G\u00e9raldine Pflieger",
+        "id": 2888202393,
+        "id_str": "2888202393",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "LesVertsSuisses",
+        "name": "Les VERT\u00b7E\u00b7S suisses",
+        "id": 132839813,
+        "id_str": "132839813",
+        "indices": [
+          100,
+          116
+        ]
+      }
+    ],
+    "user_id": 4665042160,
+    "user_name": "Didier \ud83d\udc36",
+    "user_screenname": "BallifMichel",
+    "user_followers_count": 36,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 13 12:52:32 +0000 2022",
+    "id": 1591776024471441411,
+    "text": "@femeninna Pour \u00eatre honn\u00eate, je doute que les russes avaient en projet d\u2019envahir une puissance nucl\u00e9aire comme la France. Ils sont cons mais quand m\u00eame y\u2019a des limites",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "femeninna",
+        "name": "inna shevchenko",
+        "id": 732393506,
+        "id_str": "732393506",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ],
+    "user_id": 2329296590,
+    "user_name": "Perrier",
+    "user_screenname": "Perrierfrais",
+    "user_followers_count": 5,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 13 14:17:43 +0000 2022",
+    "id": 1591797461575962626,
+    "text": "@marechalgui @EmmanuelMacron Erreur @marechalgui , le Pr\u00e9sident de la R\u00e9publique n\u2019\u00e9tait pas ministre de l\u2019\u00e9cologie. C\u2019\u00e9tait votre diva @RoyalSegolene qui flirte avec le poutinol\u00e2tre @JLMelenchon , et c\u2019est elle qui a ferm\u00e9 la centrale nucl\u00e9aire, elle s\u2019en est m\u00eame vant\u00e9e \u2026\u2935\ufe0f https://t.co/mBfGotf9ac",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "marechalgui",
+        "name": "Guillaume Mar\u00e9chal",
+        "id": 313799139,
+        "id_str": "313799139",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "EmmanuelMacron",
+        "name": "Emmanuel Macron",
+        "id": 1976143068,
+        "id_str": "1976143068",
+        "indices": [
+          13,
+          28
+        ]
+      },
+      {
+        "screen_name": "marechalgui",
+        "name": "Guillaume Mar\u00e9chal",
+        "id": 313799139,
+        "id_str": "313799139",
+        "indices": [
+          36,
+          48
+        ]
+      },
+      {
+        "screen_name": "RoyalSegolene",
+        "name": "S\u00e9gol\u00e8ne Royal",
+        "id": 69032746,
+        "id_str": "69032746",
+        "indices": [
+          136,
+          150
+        ]
+      },
+      {
+        "screen_name": "JLMelenchon",
+        "name": "Jean-Luc M\u00e9lenchon",
+        "id": 80820758,
+        "id_str": "80820758",
+        "indices": [
+          183,
+          195
+        ]
+      }
+    ],
+    "user_id": 1091722643143909385,
+    "user_name": "Camille Sweat",
+    "user_screenname": "CamilleSweet18",
+    "user_followers_count": 2301,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 13 14:23:21 +0000 2022",
+    "id": 1591798879225319424,
+    "text": "@dupontaignan Curieux ce soul\u00e8vement apr\u00e8s les accords rat\u00e9s en septembre 2022 sur le nucl\u00e9aire...",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "dupontaignan",
+        "name": "N. Dupont-Aignan",
+        "id": 38170599,
+        "id_str": "38170599",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ],
+    "user_id": 3231378833,
+    "user_name": "Nicole Fichot",
+    "user_screenname": "fichotnicole",
+    "user_followers_count": 26,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 13 14:34:16 +0000 2022",
+    "id": 1591801626498838528,
+    "text": "RT @J_Bardella: L'\u00e9olien est une \u00e9nergie intermittente qui pose de nombreux probl\u00e8mes \u00e9cologiques. Seul le nucl\u00e9aire, sur lequel il y avait\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "J_Bardella",
+        "name": "Jordan Bardella",
+        "id": 1499400284,
+        "id_str": "1499400284",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "user_id": 1544809337293619203,
+    "user_name": "Invaccinable",
+    "user_screenname": "Djuhen75",
+    "user_followers_count": 943,
+    "retweet_parent_id": 1591800552526004224
+  },
+  {
+    "created_at": "Sun Nov 13 14:38:42 +0000 2022",
+    "id": 1591802742187905025,
+    "text": "Ce qui prouve ce que j'ai \u00e9crit ailleurs, savoir que lorsque Poutine sera accul\u00e9, il n'aura plus que la ressource nucl\u00e9aire, ce qui rejoint la proph\u00e9tie de Fatima.\nhttps://t.co/1p1Y1ZeDH7",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [],
+    "user_id": 1141796948640522241,
+    "user_name": "Gilbert CHEVALIER",
+    "user_screenname": "GilbertAveugle",
+    "user_followers_count": 900,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 13 15:29:25 +0000 2022",
+    "id": 1591815505467539456,
+    "text": "RT @J_Bardella: L'\u00e9olien est une \u00e9nergie intermittente qui pose de nombreux probl\u00e8mes \u00e9cologiques. Seul le nucl\u00e9aire, sur lequel il y avait\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "J_Bardella",
+        "name": "Jordan Bardella",
+        "id": 1499400284,
+        "id_str": "1499400284",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "user_id": 1002209329,
+    "user_name": "bubon",
+    "user_screenname": "moudubulbe",
+    "user_followers_count": 238,
+    "retweet_parent_id": 1591800552526004224
+  },
+  {
+    "created_at": "Sun Nov 13 15:34:36 +0000 2022",
+    "id": 1591816809904308224,
+    "text": "@ZLudovicFR @BFMTV Non. Le but c'est que les pays n'aient pas tous l'arme nucl\u00e9aire sinon le risque d'une frappe est bien plus importante.\n\nSurtout dans le cas d'un pays dirig\u00e9 par un dictateur en guerre contre une d\u00e9mocratie. Vous devriez revoir vos valeurs un peu.",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "ZLudovicFR",
+        "name": "ZANKER, Ludovic \ud83c\uddeb\ud83c\uddf7\ud83c\uddf7\ud83c\uddfa",
+        "id": 1554767280051048448,
+        "id_str": "1554767280051048448",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "BFMTV",
+        "name": "BFMTV",
+        "id": 133663801,
+        "id_str": "133663801",
+        "indices": [
+          12,
+          18
+        ]
+      }
+    ],
+    "user_id": 1190004895136530438,
+    "user_name": "Marcus\ud83e\uddcb",
+    "user_screenname": "marcus_97170",
+    "user_followers_count": 3,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 13 16:01:55 +0000 2022",
+    "id": 1591823684372668417,
+    "text": "Gros morceau Pacifiction. Les p\u00e9r\u00e9grinations d\u2019un repr\u00e9sentant de l\u2019Etat, entre traque et tractations, dans un Tahiti agit\u00e9 par la menace nucl\u00e9aire. Etonnant thriller politique, tr\u00e8s vaporeux et ici doubl\u00e9 d'un bad trip parano\u00efaque, qui suit un homme qui tangue et nous avec. https://t.co/aY7mBEEk2N",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [],
+    "user_id": 141196682,
+    "user_name": "Ana\u00efs, \"ultra du CNC\"",
+    "user_screenname": "Nanoushkah",
+    "user_followers_count": 1883,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 13 17:22:22 +0000 2022",
+    "id": 1591843930269798404,
+    "text": "RT @YvesPDB: Les Etats-Unis et la Russie n\u00e9gocient en secret le futur partage du nucl\u00e9aire civil ukrainien https://t.co/ysj9KZsXPO",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "YvesPDB",
+        "name": "Yves Pozzo di Borgo",
+        "id": 2365378849,
+        "id_str": "2365378849",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "user_id": 1401414577313792000,
+    "user_name": "Delautre Chlo\u00e9\ud83c\udff3\ufe0f\u200d\ud83c\udf08\u2665\ufe0f\ud83c\udf3a\ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc69\ud83d\udc85\ud83d\udc8b\ud83d\udc60\ud83d\udc44\ud83d\udc98",
+    "user_screenname": "DelautreChloe4",
+    "user_followers_count": 4247,
+    "retweet_parent_id": 1591841948901543937
+  },
+  {
+    "created_at": "Sun Nov 13 17:30:32 +0000 2022",
+    "id": 1591845985466351617,
+    "text": "RT @VolodimirZelen1: \ud83e\udd29L\u2019Ukraine et les USA vont travailler sur un petit r\u00e9acteur nucl\u00e9aire modulable (SMR), crucial pour d\u00e9connecter l\u2019Ukra\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "VolodimirZelen1",
+        "name": "SoutienZelensky\ud83c\uddeb\ud83c\uddf7\ud83c\uddfa\ud83c\udde6",
+        "id": 1497324670076469248,
+        "id_str": "1497324670076469248",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "user_id": 972480899899158529,
+    "user_name": "Padre1959 \ud83c\uddeb\ud83c\uddf7\ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6#Macron2022",
+    "user_screenname": "PAADRE1959",
+    "user_followers_count": 931,
+    "retweet_parent_id": 1591790118289166337
+  },
+  {
+    "created_at": "Sun Nov 13 18:07:04 +0000 2022",
+    "id": 1591855179401691136,
+    "text": "RT @VolodimirZelen1: \ud83e\udd29L\u2019Ukraine et les USA vont travailler sur un petit r\u00e9acteur nucl\u00e9aire modulable (SMR), crucial pour d\u00e9connecter l\u2019Ukra\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "VolodimirZelen1",
+        "name": "SoutienZelensky\ud83c\uddeb\ud83c\uddf7\ud83c\uddfa\ud83c\udde6",
+        "id": 1497324670076469248,
+        "id_str": "1497324670076469248",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "user_id": 901646472,
+    "user_name": "EmS",
+    "user_screenname": "lilyroze13",
+    "user_followers_count": 395,
+    "retweet_parent_id": 1591790118289166337
+  },
+  {
+    "created_at": "Sun Nov 13 18:07:14 +0000 2022",
+    "id": 1591855221315092480,
+    "text": "Continuez \u00e0 dormir braves gens\ud83d\ude08Les Etats-Unis et la Russie n\u00e9gocient en secret le futur partage du nucl\u00e9aire civil ukrainien https://t.co/huDwXNDZR6",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [],
+    "user_id": 604855038,
+    "user_name": "GWARD \ud83c\uddeb\ud83c\uddf7\ud83c\udde8\ud83c\udde6\ud83c\uddec\ud83c\uddf7\ud83e\udd82\ud83c\udde6\ud83c\uddf2\ud83c\uddee\ud83c\uddf1\ud83c\uddf7\ud83c\uddfa\ud83c\uddf1\ud83c\uddfa",
+    "user_screenname": "cyrilboji",
+    "user_followers_count": 730,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 13 18:14:44 +0000 2022",
+    "id": 1591857108756336640,
+    "text": "RT @YvesPDB: Les Etats-Unis et la Russie n\u00e9gocient en secret le futur partage du nucl\u00e9aire civil ukrainien https://t.co/ysj9KZsXPO",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "YvesPDB",
+        "name": "Yves Pozzo di Borgo",
+        "id": 2365378849,
+        "id_str": "2365378849",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "user_id": 4513987336,
+    "user_name": "giosu\u00e9 \ud83c\uddeb\ud83c\uddf7",
+    "user_screenname": "zavatta69",
+    "user_followers_count": 5457,
+    "retweet_parent_id": 1591841948901543937
+  },
+  {
+    "created_at": "Sun Nov 13 18:26:20 +0000 2022",
+    "id": 1591860027991916544,
+    "text": "RT @LeSommierRgis: #Energodar #Zaporijjia \nBombardements sur une cit\u00e9 situ\u00e9e \u00e0 moins d\u20191 km de la centrale nucl\u00e9aire. Celle-ci a \u00e9t\u00e9 touch\u00e9\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [
+      {
+        "text": "Energodar",
+        "indices": [
+          19,
+          29
+        ]
+      },
+      {
+        "text": "Zaporijjia",
+        "indices": [
+          30,
+          41
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LeSommierRgis",
+        "name": "R\u00e9gis Le Sommier",
+        "id": 305072354,
+        "id_str": "305072354",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "user_id": 1520020598562430976,
+    "user_name": "Fr\u00e9d\u00e9ric",
+    "user_screenname": "Frdric51191113",
+    "user_followers_count": 68,
+    "retweet_parent_id": 1591683765461712899
+  },
+  {
+    "created_at": "Sun Nov 13 19:00:57 +0000 2022",
+    "id": 1591868739561013249,
+    "text": "RT @YvesPDB: Les Etats-Unis et la Russie n\u00e9gocient en secret le futur partage du nucl\u00e9aire civil ukrainien https://t.co/ysj9KZsXPO",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "YvesPDB",
+        "name": "Yves Pozzo di Borgo",
+        "id": 2365378849,
+        "id_str": "2365378849",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "user_id": 1328302689122443266,
+    "user_name": "Didier",
+    "user_screenname": "Didier73566035",
+    "user_followers_count": 15,
+    "retweet_parent_id": 1591841948901543937
+  },
+  {
+    "created_at": "Sun Nov 13 19:25:35 +0000 2022",
+    "id": 1591874938734247936,
+    "text": "@Santegouv_alt Je n'ose imaginer leurs \u00e9l\u00e9ments de langage en cas d'accident nucl\u00e9aire dans une centrale fran\u00e7aise \ud83d\ude31",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "Santegouv_alt",
+        "name": "Minist\u00e8re Sant\u00e9 & Solidarit\u00e9s Desert\u00e9 \ud83d\udc7b parodie",
+        "id": 1539832782859509762,
+        "id_str": "1539832782859509762",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ],
+    "user_id": 1039983582301892608,
+    "user_name": "CarineCarion",
+    "user_screenname": "CarineCarion",
+    "user_followers_count": 265,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 13 20:50:38 +0000 2022",
+    "id": 1591896342267564032,
+    "text": "RT @MacLesggy: Les prochaines d\u00e9localisations, pour cause d\u2019\u00e9nergie trop ch\u00e8re, auront pour responsables les gouvernements antinucl\u00e9aires s\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "MacLesggy",
+        "name": "Mac Lesggy",
+        "id": 115683734,
+        "id_str": "115683734",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "user_id": 1320075352023175170,
+    "user_name": "Dubois G\u00e9rald",
+    "user_screenname": "GeraldGrald4",
+    "user_followers_count": 101,
+    "retweet_parent_id": 1591145454229520384
+  },
+  {
+    "created_at": "Sun Nov 13 20:55:22 +0000 2022",
+    "id": 1591897533474906112,
+    "text": "RT @YvesPDB: Les Etats-Unis et la Russie n\u00e9gocient en secret le futur partage du nucl\u00e9aire civil ukrainien https://t.co/ysj9KZsXPO",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "YvesPDB",
+        "name": "Yves Pozzo di Borgo",
+        "id": 2365378849,
+        "id_str": "2365378849",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "user_id": 969152757679738885,
+    "user_name": "Hellam",
+    "user_screenname": "Hellam12",
+    "user_followers_count": 1391,
+    "retweet_parent_id": 1591841948901543937
+  },
+  {
+    "created_at": "Sun Nov 13 22:11:53 +0000 2022",
+    "id": 1591916789520277504,
+    "text": "via @franceinfo : Les Etats-Unis, le Japon et la Cor\u00e9e du Sud promettent une r\u00e9ponse \"forte et ferme\" en cas d'essai nucl\u00e9aire de Pyongyang.\n\ud83d\udc4d https://t.co/aCotWzFgOt",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "franceinfo",
+        "name": "franceinfo",
+        "id": 38395124,
+        "id_str": "38395124",
+        "indices": [
+          4,
+          15
+        ]
+      }
+    ],
+    "user_id": 463224508,
+    "user_name": "Claire Leconte",
+    "user_screenname": "leconteclaire",
+    "user_followers_count": 1589,
+    "retweet_parent_id": -1
+  }
+]

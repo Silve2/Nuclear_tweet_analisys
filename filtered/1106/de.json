@@ -1,0 +1,430 @@
+[
+  {
+    "created_at": "Sun Nov 06 00:54:55 +0000 2022",
+    "id": 1589058715277496320,
+    "text": "@BradCraig_F3 @F3Isotope @Slingshot_F3 https://t.co/DJahlp9vpv",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "qme",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "BradCraig_F3",
+        "name": "Brad Craig",
+        "id": 829733972,
+        "id_str": "829733972",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "F3Isotope",
+        "name": "F3/Isotope",
+        "id": 856934533,
+        "id_str": "856934533",
+        "indices": [
+          14,
+          24
+        ]
+      },
+      {
+        "screen_name": "Slingshot_F3",
+        "name": "David McEwen",
+        "id": 1304106339376001024,
+        "id_str": "1304106339376001024",
+        "indices": [
+          25,
+          38
+        ]
+      }
+    ],
+    "user_id": 1629303654,
+    "user_name": "Josh Worley",
+    "user_screenname": "jollyroger_f3",
+    "user_followers_count": 743,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 06 04:45:30 +0000 2022",
+    "id": 1589116743473336320,
+    "text": "RT @Nuklearia: Deutschland wird seine #Klimaziele 2030 klar verfehlen, sagt ein Expertenrat der Bundesregierung. Kein Wunder, ohne #Kernene\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [
+      {
+        "text": "Klimaziele",
+        "indices": [
+          38,
+          49
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Nuklearia",
+        "name": "Nuklearia e. V.",
+        "id": 395859132,
+        "id_str": "395859132",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "user_id": 1026082473569075206,
+    "user_name": "Dirk Niemann \ud83c\udde9\ud83c\uddea\ud83c\uddfa\ud83c\udde6\ud83c\uddea\ud83c\uddfa\ud83c\uddee\ud83c\uddf1",
+    "user_screenname": "DirkNiemann3",
+    "user_followers_count": 78,
+    "retweet_parent_id": 1588779507129126912
+  },
+  {
+    "created_at": "Sun Nov 06 08:01:51 +0000 2022",
+    "id": 1589166156556173318,
+    "text": "@DerClue @Nuklearia Geliefert wird kontinuierlich, es m\u00fcssen allerdings noch weitere Kernkraftwerke hochgefahren werden.",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "DerClue",
+        "name": "Chris Luening \ud83c\uddea\ud83c\uddfa#Semper_i(=U/R) \u21af",
+        "id": 399518734,
+        "id_str": "399518734",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "Nuklearia",
+        "name": "Nuklearia e. V.",
+        "id": 395859132,
+        "id_str": "395859132",
+        "indices": [
+          9,
+          19
+        ]
+      }
+    ],
+    "user_id": 1553044601543565312,
+    "user_name": "freiheit",
+    "user_screenname": "freiheitfuealle",
+    "user_followers_count": 33,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 06 08:03:57 +0000 2022",
+    "id": 1589166685046833152,
+    "text": "@welt Besser Ihr sprecht mal Warnungen an janz-weit -wech-USA aus! Die Yankees sind auf nuklear Trip \ud83d\udc47 https://t.co/kDmiOPlKba",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "welt",
+        "name": "WELT",
+        "id": 8720562,
+        "id_str": "8720562",
+        "indices": [
+          0,
+          5
+        ]
+      }
+    ],
+    "user_id": 1470465150352252931,
+    "user_name": "Snowflake",
+    "user_screenname": "snowflake74",
+    "user_followers_count": 196,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 06 08:15:30 +0000 2022",
+    "id": 1589169591695314944,
+    "text": "@DerClue @solarpapst @Nuklearia er schrieb \u201ezeitweise\u201c. Man kann im Chart erkennen das es eben. icht stimmt. Oder wo genau kam die Erzeugung an den Verbrauch heran?",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "DerClue",
+        "name": "Chris Luening \ud83c\uddea\ud83c\uddfa#Semper_i(=U/R) \u21af",
+        "id": 399518734,
+        "id_str": "399518734",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "solarpapst",
+        "name": "Stefan Krauter",
+        "id": 115730144,
+        "id_str": "115730144",
+        "indices": [
+          9,
+          20
+        ]
+      },
+      {
+        "screen_name": "Nuklearia",
+        "name": "Nuklearia e. V.",
+        "id": 395859132,
+        "id_str": "395859132",
+        "indices": [
+          21,
+          31
+        ]
+      }
+    ],
+    "user_id": 404913512,
+    "user_name": "YES",
+    "user_screenname": "SpinDoctor_mb",
+    "user_followers_count": 249,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 06 12:00:38 +0000 2022",
+    "id": 1589226248353763328,
+    "text": "RT @FrKretschBuch: DAS WAREN WIR IN DEN 80ERN SCHON!!! ALLE!! WALDSTERBEN, SMOG, TSCHERNOBYL!!! FAST T\u00d6TER ALS TOT WAREN WIR!! Und jetzt h\u00f6\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "FrKretschBuch",
+        "name": "Die Kretsche",
+        "id": 1160818849987645441,
+        "id_str": "1160818849987645441",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "user_id": 1833662454,
+    "user_name": "Angel G",
+    "user_screenname": "EngelGert",
+    "user_followers_count": 3323,
+    "retweet_parent_id": 1589225432343511045
+  },
+  {
+    "created_at": "Sun Nov 06 12:28:10 +0000 2022",
+    "id": 1589233177352343553,
+    "text": "@Ralf_Stegner Das ist die schreckliche Realit\u00e4t in der Ukraine - jeden Tag! Die Russen morden, vergewaltigen &amp; t\u00f6ten &amp; drohen mit einem Nuklearkrieg... wie soll mit so jemanden verhandelt werden, dem nicht zu trauen ist &amp; der die schlimmsten Verbrechen begeht??",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "Ralf_Stegner",
+        "name": "Ralf Stegner",
+        "id": 16808099,
+        "id_str": "16808099",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ],
+    "user_id": 1498377349192114179,
+    "user_name": "Artemis86",
+    "user_screenname": "Artemis__86",
+    "user_followers_count": 37,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 06 13:06:00 +0000 2022",
+    "id": 1589242698401447939,
+    "text": "@kraninspektor ja kann ich dir auch nur in prognosen darstellen, aber an sich ver\u00e4ndert sich halt jegliche art der intermenschlichen bezierhung, wenn man sich vom individualismus entfernt. ich meine vor der nuklear-familie war ja auch erziehung viel gemeinschaftlicher.",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "kraninspektor",
+        "name": "tim\ud83c\udff4\ud83d\udea9 (elon musk parodie account)",
+        "id": 1246385910771580934,
+        "id_str": "1246385910771580934",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ],
+    "user_id": 1114589101011894272,
+    "user_name": "amor\u00e9",
+    "user_screenname": "zankteufel1",
+    "user_followers_count": 801,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 06 13:17:09 +0000 2022",
+    "id": 1589245504403099648,
+    "text": "@RealTomCGN @AufstandLastGen @n3ll41 @Nuklearia @Rainer_Klute @AnnikaJoeres @susannegoetze Gerne kann mich @Rainer_Klute korrigieren, aber afaik und angesichts seiner aktenkundigen Aktionen hat der Verein ein Aktionsbudget von vllt max 10.000 \u20ac/a. \u27a1\ufe0f",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "RealTomCGN",
+        "name": "Tom",
+        "id": 823483984801828865,
+        "id_str": "823483984801828865",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "AufstandLastGen",
+        "name": "Letzte Generation",
+        "id": 1424822661474144256,
+        "id_str": "1424822661474144256",
+        "indices": [
+          12,
+          28
+        ]
+      },
+      {
+        "screen_name": "n3ll41",
+        "name": "\u300bN\u0336\u0338E\u0336\u0334L\u0336\u0334 \u0315\u0344L\u0336\u0338A\u0336\u0334\u300a",
+        "id": 1535992399452950528,
+        "id_str": "1535992399452950528",
+        "indices": [
+          29,
+          36
+        ]
+      },
+      {
+        "screen_name": "Nuklearia",
+        "name": "Nuklearia e. V.",
+        "id": 395859132,
+        "id_str": "395859132",
+        "indices": [
+          37,
+          47
+        ]
+      },
+      {
+        "screen_name": "Rainer_Klute",
+        "name": "Rainer Klute",
+        "id": 50260096,
+        "id_str": "50260096",
+        "indices": [
+          48,
+          61
+        ]
+      },
+      {
+        "screen_name": "AnnikaJoeres",
+        "name": "Annika Joeres",
+        "id": 1052189708195782656,
+        "id_str": "1052189708195782656",
+        "indices": [
+          62,
+          75
+        ]
+      },
+      {
+        "screen_name": "susannegoetze",
+        "name": "Susanne G\u00f6tze",
+        "id": 305836619,
+        "id_str": "305836619",
+        "indices": [
+          76,
+          90
+        ]
+      },
+      {
+        "screen_name": "Rainer_Klute",
+        "name": "Rainer Klute",
+        "id": 50260096,
+        "id_str": "50260096",
+        "indices": [
+          107,
+          120
+        ]
+      }
+    ],
+    "user_id": 1428969253,
+    "user_name": "Anna Vero Wendland",
+    "user_screenname": "VeroWendland",
+    "user_followers_count": 17209,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Sun Nov 06 19:02:25 +0000 2022",
+    "id": 1589332393617678336,
+    "text": "@berlindirekt @cducsubt @ZDF Die CDU z\u00fcndet stets die Nebelkerze Atomenergie, obwohl das bisschen Atomstrom (6%) in DE leicht durch EE ersetzbar ist. Uns fehlt Gas. Die CDU hat uns von Putin abh\u00e4ngig gemacht u Gasspeicher an russische Firmen verkauft hat. Gleichzeitig wurde EE ausgebremst. D\u00fcmmer gings nicht",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "berlindirekt",
+        "name": "Berlin direkt",
+        "id": 1192869355,
+        "id_str": "1192869355",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "cducsubt",
+        "name": "CDU/CSU",
+        "id": 46085533,
+        "id_str": "46085533",
+        "indices": [
+          14,
+          23
+        ]
+      },
+      {
+        "screen_name": "ZDF",
+        "name": "ZDF",
+        "id": 57350105,
+        "id_str": "57350105",
+        "indices": [
+          24,
+          28
+        ]
+      }
+    ],
+    "user_id": 1458807849212157961,
+    "user_name": "Hermine Hauck",
+    "user_screenname": "hermine_hauck",
+    "user_followers_count": 114,
+    "retweet_parent_id": -1
+  }
+]

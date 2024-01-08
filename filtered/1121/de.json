@@ -1,0 +1,665 @@
+[
+  {
+    "created_at": "Mon Nov 21 07:30:00 +0000 2022",
+    "id": 1594593959224942596,
+    "text": "@spdistdoof @Nuklearia @welt Wer keine Begr\u00fcndungen hat, versucht es stattdessen mit Beleidigungen, allerdings vergeblich.",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "spdistdoof",
+        "name": "Mike Bohm",
+        "id": 824540065657413632,
+        "id_str": "824540065657413632",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "Nuklearia",
+        "name": "Nuklearia e. V.",
+        "id": 395859132,
+        "id_str": "395859132",
+        "indices": [
+          12,
+          22
+        ]
+      },
+      {
+        "screen_name": "welt",
+        "name": "WELT",
+        "id": 8720562,
+        "id_str": "8720562",
+        "indices": [
+          23,
+          28
+        ]
+      }
+    ],
+    "user_id": 50260096,
+    "user_name": "Rainer Klute",
+    "user_screenname": "Rainer_Klute",
+    "user_followers_count": 3845,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Mon Nov 21 08:06:38 +0000 2022",
+    "id": 1594603178326212608,
+    "text": "RT @Nuklearia: @ChristianHJW @BpunktK @VeroWendland Auf die Stra\u00dfe gesetzt haben wir uns nicht, aber auf die Stra\u00dfe gegangen sind wir am le\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "Nuklearia",
+        "name": "Nuklearia e. V.",
+        "id": 395859132,
+        "id_str": "395859132",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "ChristianHJW",
+        "name": "Christian Wiesner",
+        "id": 149536218,
+        "id_str": "149536218",
+        "indices": [
+          15,
+          28
+        ]
+      },
+      {
+        "screen_name": "BpunktK",
+        "name": "\ud83c\uddea\ud83c\uddfaDemocracy Supporter \ud83c\uddfa\ud83c\udde6",
+        "id": 822519734998626304,
+        "id_str": "822519734998626304",
+        "indices": [
+          29,
+          37
+        ]
+      },
+      {
+        "screen_name": "VeroWendland",
+        "name": "Anna Vero Wendland",
+        "id": 1428969253,
+        "id_str": "1428969253",
+        "indices": [
+          38,
+          51
+        ]
+      }
+    ],
+    "user_id": 68227606,
+    "user_name": "Matthias M. \ud83d\udfe1\ud83d\udfe1\ud83d\udfe1\u26ab\ufe0f\u26ab\ufe0f\u26ab\ufe0f",
+    "user_screenname": "bayerndoktor",
+    "user_followers_count": 722,
+    "retweet_parent_id": 1594602749550788609
+  },
+  {
+    "created_at": "Mon Nov 21 08:14:06 +0000 2022",
+    "id": 1594605057370210304,
+    "text": "RT @Nuklearia: Die Kernenergie kann Klima- und Energiekrise kurzfristig mildern und langfristig l\u00f6sen. Sie bietet Wind- und Solarenergie ei\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "Nuklearia",
+        "name": "Nuklearia e. V.",
+        "id": 395859132,
+        "id_str": "395859132",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "user_id": 230704787,
+    "user_name": "Matthias C. Berger",
+    "user_screenname": "mcb771",
+    "user_followers_count": 58,
+    "retweet_parent_id": 1594593440452734976
+  },
+  {
+    "created_at": "Mon Nov 21 09:45:31 +0000 2022",
+    "id": 1594628063127642112,
+    "text": "@tomfire72 @MelnykAndrij Falsch. Eine geordnete Konfrontation im Stil Nordkoreas zu S\u00fcdkorea ist nichts W\u00fcnschenswertes. \nDennoch w\u00e4ren durch nukleare Erpressung erzwungene territoriale Konzessionen die weitaus folgenschwerere Alternative f\u00fcr die Weltgemeinschaft.\nDer Krieg geht wird dann nur ausgedehnt.",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "tomfire72",
+        "name": "Tom Recht \ud83d\udc99\ud83d\udc9b",
+        "id": 102554196,
+        "id_str": "102554196",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "MelnykAndrij",
+        "name": "Andrij Melnyk",
+        "id": 2959037001,
+        "id_str": "2959037001",
+        "indices": [
+          11,
+          24
+        ]
+      }
+    ],
+    "user_id": 82378758,
+    "user_name": "Papa Smurf",
+    "user_screenname": "patrickpfeifer",
+    "user_followers_count": 19,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Mon Nov 21 09:50:28 +0000 2022",
+    "id": 1594629308831567872,
+    "text": "@Nuklearia @Wunderfitz2 Der Grund warum sie sagen, dass das da bleiben sollte ist aber nicht weil das so super toll gelagert ist sondern weil das Rausnehmen zu erheblichen Strahlenexpositionen f\u00fchren k\u00f6nnte...man wei\u00df zudem einfach nicht in welchem Zustand einiges davon ist...\n\nhttps://t.co/CnrSteQyRq",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "Nuklearia",
+        "name": "Nuklearia e. V.",
+        "id": 395859132,
+        "id_str": "395859132",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "Wunderfitz2",
+        "name": "Wunderfitz",
+        "id": 1518983169571237888,
+        "id_str": "1518983169571237888",
+        "indices": [
+          11,
+          23
+        ]
+      }
+    ],
+    "user_id": 1409454639087562753,
+    "user_name": "Marc Ickes",
+    "user_screenname": "MarcIckes",
+    "user_followers_count": 6,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Mon Nov 21 10:52:48 +0000 2022",
+    "id": 1594644995507625985,
+    "text": "@lawen4cer @ChristianHJW @Nuklearia @bayerndoktor @BpunktK @VeroWendland Experten versichern uns, dass die Menschheit untergeht, wenn wir den CO2 Aussto\u00df nicht reduzieren. Aber wir sollen Atomkraftwerke abschalten und Kohle betreiben? \nEntweder man nimmt die Erw\u00e4rmung ernst oder nicht.",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "lawen4cer",
+        "name": "lawen4cer",
+        "id": 402905179,
+        "id_str": "402905179",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "ChristianHJW",
+        "name": "Christian Wiesner",
+        "id": 149536218,
+        "id_str": "149536218",
+        "indices": [
+          11,
+          24
+        ]
+      },
+      {
+        "screen_name": "Nuklearia",
+        "name": "Nuklearia e. V.",
+        "id": 395859132,
+        "id_str": "395859132",
+        "indices": [
+          25,
+          35
+        ]
+      },
+      {
+        "screen_name": "bayerndoktor",
+        "name": "Matthias M. \ud83d\udfe1\ud83d\udfe1\ud83d\udfe1\u26ab\ufe0f\u26ab\ufe0f\u26ab\ufe0f",
+        "id": 68227606,
+        "id_str": "68227606",
+        "indices": [
+          36,
+          49
+        ]
+      },
+      {
+        "screen_name": "BpunktK",
+        "name": "\ud83c\uddea\ud83c\uddfaDemocracy Supporter \ud83c\uddfa\ud83c\udde6",
+        "id": 822519734998626304,
+        "id_str": "822519734998626304",
+        "indices": [
+          50,
+          58
+        ]
+      },
+      {
+        "screen_name": "VeroWendland",
+        "name": "Anna Vero Wendland",
+        "id": 1428969253,
+        "id_str": "1428969253",
+        "indices": [
+          59,
+          72
+        ]
+      }
+    ],
+    "user_id": 175435986,
+    "user_name": "allesevolution",
+    "user_screenname": "allesevolution",
+    "user_followers_count": 3935,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Mon Nov 21 12:25:41 +0000 2022",
+    "id": 1594668370372493312,
+    "text": "@lawen4cer @TarchSoyEnLlyom @MarcIckes @ChristianHJW @Nuklearia @bayerndoktor @BpunktK @VeroWendland Die Chinesischen Reaktoren haben eine Bauzeit von ca 6 Jahren meine ich. Die s\u00fcdkoreanischen auch etwa. Es muss auch kein EPR sein.",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "lawen4cer",
+        "name": "lawen4cer",
+        "id": 402905179,
+        "id_str": "402905179",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "TarchSoyEnLlyom",
+        "name": "Tarch Soy en Llyom, part time advocatus diaboli",
+        "id": 1159979492728803328,
+        "id_str": "1159979492728803328",
+        "indices": [
+          11,
+          27
+        ]
+      },
+      {
+        "screen_name": "MarcIckes",
+        "name": "Marc Ickes",
+        "id": 1409454639087562753,
+        "id_str": "1409454639087562753",
+        "indices": [
+          28,
+          38
+        ]
+      },
+      {
+        "screen_name": "ChristianHJW",
+        "name": "Christian Wiesner",
+        "id": 149536218,
+        "id_str": "149536218",
+        "indices": [
+          39,
+          52
+        ]
+      },
+      {
+        "screen_name": "Nuklearia",
+        "name": "Nuklearia e. V.",
+        "id": 395859132,
+        "id_str": "395859132",
+        "indices": [
+          53,
+          63
+        ]
+      },
+      {
+        "screen_name": "bayerndoktor",
+        "name": "Matthias M. \ud83d\udfe1\ud83d\udfe1\ud83d\udfe1\u26ab\ufe0f\u26ab\ufe0f\u26ab\ufe0f",
+        "id": 68227606,
+        "id_str": "68227606",
+        "indices": [
+          64,
+          77
+        ]
+      },
+      {
+        "screen_name": "BpunktK",
+        "name": "\ud83c\uddea\ud83c\uddfaDemocracy Supporter \ud83c\uddfa\ud83c\udde6",
+        "id": 822519734998626304,
+        "id_str": "822519734998626304",
+        "indices": [
+          78,
+          86
+        ]
+      },
+      {
+        "screen_name": "VeroWendland",
+        "name": "Anna Vero Wendland",
+        "id": 1428969253,
+        "id_str": "1428969253",
+        "indices": [
+          87,
+          100
+        ]
+      }
+    ],
+    "user_id": 175435986,
+    "user_name": "allesevolution",
+    "user_screenname": "allesevolution",
+    "user_followers_count": 3935,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Mon Nov 21 14:03:48 +0000 2022",
+    "id": 1594693062256721923,
+    "text": "RT @FMannuss: Scott Ritter:\n\"Ein Konflikt zwischen der NATO und Russland endet nur auf eine Art: mit der nuklearen Vernichtung Europas, ein\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "FMannuss",
+        "name": "Frima",
+        "id": 582487840,
+        "id_str": "582487840",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "user_id": 1115832862530523136,
+    "user_name": "anders leben ! w\u00e4re notwendig, \ud83c\uddf7\ud83c\uddfa",
+    "user_screenname": "kreativeEnergie",
+    "user_followers_count": 679,
+    "retweet_parent_id": 1594679373344522240
+  },
+  {
+    "created_at": "Mon Nov 21 18:51:38 +0000 2022",
+    "id": 1594765497890967559,
+    "text": "RT @FMannuss: Scott Ritter:\n\"Ein Konflikt zwischen der NATO und Russland endet nur auf eine Art: mit der nuklearen Vernichtung Europas, ein\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "FMannuss",
+        "name": "Frima",
+        "id": 582487840,
+        "id_str": "582487840",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "user_id": 1014500961178484737,
+    "user_name": "Gudrun Schreiner",
+    "user_screenname": "GudrunSchreiner",
+    "user_followers_count": 669,
+    "retweet_parent_id": 1594679373344522240
+  },
+  {
+    "created_at": "Mon Nov 21 19:28:49 +0000 2022",
+    "id": 1594774855387385873,
+    "text": "@GrundrechteOsna @Philipp85747640 @MarkelGerald Die Nuklearsprengk\u00f6pfe m\u00fcssen mit einem verschl\u00fcsselten Code scharfgemacht werden, dieser Schl\u00fcssel \u00e4ndert sich automatisch in regelm\u00e4\u00dfigen Zeitabst\u00e4nden (i.d.R. ein paar Minuten)\nUm den Schl\u00fcssel zu bekommen muss 1. Raketen registriert werden, die auf Russland zusteuern \n1/3",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "GrundrechteOsna",
+        "name": "grundrechte_osnabrueck",
+        "id": 1506669406667087879,
+        "id_str": "1506669406667087879",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "Philipp85747640",
+        "name": "Philipp Ballmann \ud83c\udded\ud83c\uddf9",
+        "id": 1476142706820800517,
+        "id_str": "1476142706820800517",
+        "indices": [
+          17,
+          33
+        ]
+      },
+      {
+        "screen_name": "MarkelGerald",
+        "name": "Gerald markel",
+        "id": 822774456951144450,
+        "id_str": "822774456951144450",
+        "indices": [
+          34,
+          47
+        ]
+      }
+    ],
+    "user_id": 1326051407242387457,
+    "user_name": "Johnny",
+    "user_screenname": "Johnny1010010",
+    "user_followers_count": 76,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Mon Nov 21 19:33:42 +0000 2022",
+    "id": 1594776084284903428,
+    "text": "@miriam_vollmer @allesevolution @lawen4cer @TarchSoyEnLlyom @MarcIckes @Nuklearia @bayerndoktor @BpunktK @VeroWendland Ja, merke ich. Wie Lauterbach, der sich nur auf die Studien bezieht, die seine Narrative st\u00fctzen.\n\nOder die FFF-J\u00fcnger, die sich nur auf Weltuntergangs-Katastrophen-Studien gr\u00fcnden, und andere ignorieren.\n\nAber ich warte noch auf Antwort? Wo kommt der Strom bei Dunkelflaute her?",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "miriam_vollmer",
+        "name": "Miriam Vollmer",
+        "id": 3091675462,
+        "id_str": "3091675462",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "allesevolution",
+        "name": "allesevolution",
+        "id": 175435986,
+        "id_str": "175435986",
+        "indices": [
+          16,
+          31
+        ]
+      },
+      {
+        "screen_name": "lawen4cer",
+        "name": "lawen4cer",
+        "id": 402905179,
+        "id_str": "402905179",
+        "indices": [
+          32,
+          42
+        ]
+      },
+      {
+        "screen_name": "TarchSoyEnLlyom",
+        "name": "Tarch Soy en Llyom, part time advocatus diaboli",
+        "id": 1159979492728803328,
+        "id_str": "1159979492728803328",
+        "indices": [
+          43,
+          59
+        ]
+      },
+      {
+        "screen_name": "MarcIckes",
+        "name": "Marc Ickes",
+        "id": 1409454639087562753,
+        "id_str": "1409454639087562753",
+        "indices": [
+          60,
+          70
+        ]
+      },
+      {
+        "screen_name": "Nuklearia",
+        "name": "Nuklearia e. V.",
+        "id": 395859132,
+        "id_str": "395859132",
+        "indices": [
+          71,
+          81
+        ]
+      },
+      {
+        "screen_name": "bayerndoktor",
+        "name": "Matthias M. \ud83d\udfe1\ud83d\udfe1\ud83d\udfe1\u26ab\ufe0f\u26ab\ufe0f\u26ab\ufe0f",
+        "id": 68227606,
+        "id_str": "68227606",
+        "indices": [
+          82,
+          95
+        ]
+      },
+      {
+        "screen_name": "BpunktK",
+        "name": "\ud83c\uddea\ud83c\uddfaDemocracy Supporter \ud83c\uddfa\ud83c\udde6",
+        "id": 822519734998626304,
+        "id_str": "822519734998626304",
+        "indices": [
+          96,
+          104
+        ]
+      },
+      {
+        "screen_name": "VeroWendland",
+        "name": "Anna Vero Wendland",
+        "id": 1428969253,
+        "id_str": "1428969253",
+        "indices": [
+          105,
+          118
+        ]
+      }
+    ],
+    "user_id": 149536218,
+    "user_name": "Christian Wiesner",
+    "user_screenname": "ChristianHJW",
+    "user_followers_count": 2998,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Mon Nov 21 20:52:33 +0000 2022",
+    "id": 1594795927549648899,
+    "text": "@RND_de @Ukraine \n@RusBotschaft \negal wer es ist, bitte aufh\u00f6ren damit ...\nnukleare Katastrophen treffen normalerweise jeden, respektive die im unmittelbarem Gebiet...\nZusammenarbeit ist wichtig, nur so wachsen wir gemeinsam",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "RND_de",
+        "name": "RND",
+        "id": 2885573171,
+        "id_str": "2885573171",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "screen_name": "Ukraine",
+        "name": "Ukraine / \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+        "id": 732521058507620356,
+        "id_str": "732521058507620356",
+        "indices": [
+          8,
+          16
+        ]
+      },
+      {
+        "screen_name": "RusBotschaft",
+        "name": "Botschaft der Russischen F\u00f6deration",
+        "id": 596243227,
+        "id_str": "596243227",
+        "indices": [
+          18,
+          31
+        ]
+      }
+    ],
+    "user_id": 758301464305471488,
+    "user_name": "Christoph Lieske - D-126",
+    "user_screenname": "clieske2016",
+    "user_followers_count": 501,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Mon Nov 21 21:06:31 +0000 2022",
+    "id": 1594799442363817996,
+    "text": "Der polnische Raketenvorfall brachte uns kurz an den Rand der nuklearen Vernichtung \u2014 RT DE https://t.co/u6azBv2lmb",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "de",
+    "hashtags": [],
+    "user_mentions": [],
+    "user_id": 1463846017464516608,
+    "user_name": "Fuck the magic Dragon",
+    "user_screenname": "HA_04_2022",
+    "user_followers_count": 479,
+    "retweet_parent_id": -1
+  }
+]

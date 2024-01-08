@@ -1,0 +1,574 @@
+[
+  {
+    "created_at": "Thu Nov 03 00:09:44 +0000 2022",
+    "id": 1587960180922548224,
+    "text": "@limivigabbi mano clbc bissexual de chernobyl",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ht",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "limivigabbi",
+        "name": "\ud83d\ude49",
+        "id": 1284300883350769664,
+        "id_str": "1284300883350769664",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "user_id": 1503422941274464257,
+    "user_name": "bea",
+    "user_screenname": "shtflowers",
+    "user_followers_count": 10,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Thu Nov 03 06:00:19 +0000 2022",
+    "id": 1588048408106909696,
+    "text": "@Franc_Carbone94 @dianacalibana @YerleShannara @COOPapERino21 @LuMo71 @stebaraz Siamo alla follia. Ovvio che si pu\u00f2 studiare tutta la vita e avere conoscenze di un sacco di cose, ma davvero stai dicendo che AdA \u00e8 pi\u00f9 preparato di Parisi perch\u00e9 studia il nucleare dal lockdown? Ma poi la competenza scambiata per Classismo?",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "Franc_Carbone94",
+        "name": "Francesco Carbone \ud83c\uddee\ud83c\uddf9\ud83c\uddea\ud83c\uddfa\u269b",
+        "id": 1058419149158998018,
+        "id_str": "1058419149158998018",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "dianacalibana",
+        "name": "Calibana",
+        "id": 320321865,
+        "id_str": "320321865",
+        "indices": [
+          17,
+          31
+        ]
+      },
+      {
+        "screen_name": "YerleShannara",
+        "name": "Yerle Shannara \u26cf - #NoWar",
+        "id": 396142577,
+        "id_str": "396142577",
+        "indices": [
+          32,
+          46
+        ]
+      },
+      {
+        "screen_name": "COOPapERino21",
+        "name": "COOPapERino21",
+        "id": 151084965,
+        "id_str": "151084965",
+        "indices": [
+          47,
+          61
+        ]
+      },
+      {
+        "screen_name": "LuMo71",
+        "name": "Luigi Moccia\ud83c\udf3b\ud83c\uddfa\ud83c\udde6",
+        "id": 903453062,
+        "id_str": "903453062",
+        "indices": [
+          62,
+          69
+        ]
+      },
+      {
+        "screen_name": "stebaraz",
+        "name": "Stefano Barazzetta",
+        "id": 47373547,
+        "id_str": "47373547",
+        "indices": [
+          70,
+          79
+        ]
+      }
+    ],
+    "user_id": 425840466,
+    "user_name": "Laura C.",
+    "user_screenname": "Paroladilaura",
+    "user_followers_count": 1646,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Thu Nov 03 07:14:35 +0000 2022",
+    "id": 1588067097921392640,
+    "text": "Ucraina. Allarme nucleare Usa: \"Mosca ha discusso di come e quando usare la bomba\" #spaziotransnazionale informa https://t.co/TyekuizEY8",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [
+      {
+        "text": "spaziotransnazionale",
+        "indices": [
+          83,
+          104
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "user_id": 570057322,
+    "user_name": "SpazioTransnazionale",
+    "user_screenname": "transnazionale",
+    "user_followers_count": 1844,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Thu Nov 03 09:33:45 +0000 2022",
+    "id": 1588102120351432705,
+    "text": "@COOPapERino21 @LuMo71 @stebaraz @dianacalibana Aspetto il \"insensato per la Svezia e l'UK puntare sul nucleare con tutto il vento che hanno\".",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "COOPapERino21",
+        "name": "COOPapERino21",
+        "id": 151084965,
+        "id_str": "151084965",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "LuMo71",
+        "name": "Luigi Moccia\ud83c\udf3b\ud83c\uddfa\ud83c\udde6",
+        "id": 903453062,
+        "id_str": "903453062",
+        "indices": [
+          15,
+          22
+        ]
+      },
+      {
+        "screen_name": "stebaraz",
+        "name": "Stefano Barazzetta",
+        "id": 47373547,
+        "id_str": "47373547",
+        "indices": [
+          23,
+          32
+        ]
+      },
+      {
+        "screen_name": "dianacalibana",
+        "name": "Calibana",
+        "id": 320321865,
+        "id_str": "320321865",
+        "indices": [
+          33,
+          47
+        ]
+      }
+    ],
+    "user_id": 1473587253028999172,
+    "user_name": "Vladimiro Zacchigna",
+    "user_screenname": "VladimiroZacch1",
+    "user_followers_count": 28,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Thu Nov 03 11:24:11 +0000 2022",
+    "id": 1588129911813947393,
+    "text": "RT @stebaraz: Capite che il fatto che a questo tizio si riesca far credere che in Italia si debbano e possano fare 40GW di nucleare - 30 re\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "stebaraz",
+        "name": "Stefano Barazzetta",
+        "id": 47373547,
+        "id_str": "47373547",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "user_id": 422000095,
+    "user_name": "Aldo",
+    "user_screenname": "AldoCoraggio",
+    "user_followers_count": 141,
+    "retweet_parent_id": 1588121422861320193
+  },
+  {
+    "created_at": "Thu Nov 03 14:04:24 +0000 2022",
+    "id": 1588170231675236355,
+    "text": "Il Nobel per la Fisica #Parisi sul tema #energia: \u201cInsensato che l\u2019#Italia punti al nucleare e la #Germania al solare\u201d\n\nhttps://t.co/SX0RvWGuB2",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [
+      {
+        "text": "Parisi",
+        "indices": [
+          23,
+          30
+        ]
+      },
+      {
+        "text": "energia",
+        "indices": [
+          40,
+          48
+        ]
+      },
+      {
+        "text": "Italia",
+        "indices": [
+          67,
+          74
+        ]
+      },
+      {
+        "text": "Germania",
+        "indices": [
+          98,
+          107
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "user_id": 1341700571527581696,
+    "user_name": "Inews24",
+    "user_screenname": "inews__24",
+    "user_followers_count": 896,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Thu Nov 03 14:35:33 +0000 2022",
+    "id": 1588178070833340418,
+    "text": "Blackout elettrico alla centrale nucleare di Zaporizhzhia\nL'impianto scollegato dalla rete elettrica ucraina a causa dei danni delle bombe, colpiti altri impianti nel sud del Paese. Restano accesi solo i generatori diesel e l'Energoatom lancia l'allarme: \"Carburante per 15 giorni",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [],
+    "user_id": 1156573824911073285,
+    "user_name": "Aquila",
+    "user_screenname": "_My__Name____",
+    "user_followers_count": 24,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Thu Nov 03 16:24:42 +0000 2022",
+    "id": 1588205539330502656,
+    "text": "@LegaSalvini Alla faccia degli italiani che hanno votato no ai referendum sul nucleare.Sacco di merda",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "LegaSalvini",
+        "name": "Lega - Salvini Premier",
+        "id": 13514762,
+        "id_str": "13514762",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "user_id": 1322216611907018752,
+    "user_name": "Insolente Maraschino\u00ae\ufe0f",
+    "user_screenname": "Maraskino11",
+    "user_followers_count": 277,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Thu Nov 03 17:19:54 +0000 2022",
+    "id": 1588219430831624192,
+    "text": "Il FATTO \u00e8 da sempre contro l'#Ucraina,a cui non bisogna mandare armi-posizione di #M5S/#Conte.Cosi continua la campagna Filo-#Putin,cercando di terrorizzare l'Occidente.L'autore non dice UNA GRANDE VERIT\u00c0:NESSUN PAESE PU\u00d2 VINCERE UNA GUERRA NUCLEARE...\nhttps://t.co/5uk33Ur5ud",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [
+      {
+        "text": "Ucraina",
+        "indices": [
+          30,
+          38
+        ]
+      },
+      {
+        "text": "M5S",
+        "indices": [
+          83,
+          87
+        ]
+      },
+      {
+        "text": "Conte",
+        "indices": [
+          88,
+          94
+        ]
+      },
+      {
+        "text": "Putin",
+        "indices": [
+          126,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "user_id": 232259622,
+    "user_name": "Luigi Di Rauso",
+    "user_screenname": "l_dirauso",
+    "user_followers_count": 165,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Thu Nov 03 17:48:35 +0000 2022",
+    "id": 1588226649258352641,
+    "text": "RT @ultimenotizie: L'esercito ucraino continua a bombardare la centrale nucleare di #Zaporizhzhia e la visita di una delegazione dell'Agenz\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [
+      {
+        "text": "Zaporizhzhia",
+        "indices": [
+          84,
+          97
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ultimenotizie",
+        "name": "Ultime Notizie",
+        "id": 16476536,
+        "id_str": "16476536",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "user_id": 716243750,
+    "user_name": "Maria Zamberletti",
+    "user_screenname": "Zamberlett",
+    "user_followers_count": 3587,
+    "retweet_parent_id": 1588156540275593216
+  },
+  {
+    "created_at": "Thu Nov 03 18:05:55 +0000 2022",
+    "id": 1588231011330031623,
+    "text": "@GiorgiaMeloni Che il Presidente del Consiglio Italiano non si renda conto che il problema pi\u00f9 importante da affrontare in Europa \u00e8 la guerra in Ucraina \u00e8 inconcepibile\nBiden vuole una guerra nucleare in Europa e, per evitare che sia colpita l'America, invia missili in UE\nVA FERMATO SUBITO",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "GiorgiaMeloni",
+        "name": "Giorgia Meloni",
+        "id": 130537001,
+        "id_str": "130537001",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ],
+    "user_id": 1576892992857772032,
+    "user_name": "vitt.vitt",
+    "user_screenname": "vittvitt62",
+    "user_followers_count": 0,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Thu Nov 03 18:12:10 +0000 2022",
+    "id": 1588232584206721024,
+    "text": "@OGiannino Domani, per colpa di politici UE incapaci di opporsi allo strapotere di Biden che vuole una guerra nucleare in Europa, i morti saranno centinaia di milioni e giornalisti dovrebbero divulgare questa notizia affinch\u00e9 i cittadini lo comprendano e agiscano di conseguenza OGGI",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "OGiannino",
+        "name": "Oscar Giannino",
+        "id": 1050774624,
+        "id_str": "1050774624",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ],
+    "user_id": 1576892992857772032,
+    "user_name": "vitt.vitt",
+    "user_screenname": "vittvitt62",
+    "user_followers_count": 0,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Thu Nov 03 18:36:39 +0000 2022",
+    "id": 1588238745634947072,
+    "text": "I turchi continuano con questo tira e molla, solo per i loro interessi ovviamente.... \nSe fanno cos\u00ec \u00e8 solo per alzare la posta, certo non per evitare il conflitto nucleare. Purtroppo.",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [],
+    "user_id": 1563631466604806144,
+    "user_name": "Guidmo",
+    "user_screenname": "guidmon451",
+    "user_followers_count": 32,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Thu Nov 03 19:22:38 +0000 2022",
+    "id": 1588250317698670592,
+    "text": "RT @ultimenotizie: L'esercito ucraino continua a bombardare la centrale nucleare di #Zaporizhzhia e la visita di una delegazione dell'Agenz\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [
+      {
+        "text": "Zaporizhzhia",
+        "indices": [
+          84,
+          97
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ultimenotizie",
+        "name": "Ultime Notizie",
+        "id": 16476536,
+        "id_str": "16476536",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "user_id": 340258039,
+    "user_name": "James",
+    "user_screenname": "ibis787",
+    "user_followers_count": 419,
+    "retweet_parent_id": 1588156540275593216
+  },
+  {
+    "created_at": "Thu Nov 03 22:35:57 +0000 2022",
+    "id": 1588298967447703554,
+    "text": "RT @bordoni_russia: Marted\u00ec la Russia ha spedito in Francia uno dei sei magneti giganti previsti per il programma di fusione nucleare ITER,\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "bordoni_russia",
+        "name": "Marco Bordoni",
+        "id": 3121591703,
+        "id_str": "3121591703",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "user_id": 983253218,
+    "user_name": "Uno",
+    "user_screenname": "UnoNemoNessuno",
+    "user_followers_count": 5606,
+    "retweet_parent_id": 1588238442143662080
+  },
+  {
+    "created_at": "Thu Nov 03 23:23:08 +0000 2022",
+    "id": 1588310841513824257,
+    "text": "Il rappresentante degli USA per l'Iran, Robert Malley, ha detto che gli USA prenderanno in considerazione l'uso della forza  contro l'Iran se i negoziati per ripristinare l'accordo nucleare non funzioneranno. \n\u203c\ufe0fAncora non avete capito cosa rischia l'Italia dentro la NATO\u203c\ufe0f",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [],
+    "user_id": 1488307553398317058,
+    "user_name": "RoZZo Tanica",
+    "user_screenname": "rococotanica",
+    "user_followers_count": 1049,
+    "retweet_parent_id": -1
+  },
+  {
+    "created_at": "Thu Nov 03 23:46:58 +0000 2022",
+    "id": 1588316839364669442,
+    "text": "RT @bordoni_russia: Marted\u00ec la Russia ha spedito in Francia uno dei sei magneti giganti previsti per il programma di fusione nucleare ITER,\u2026",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it",
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "screen_name": "bordoni_russia",
+        "name": "Marco Bordoni",
+        "id": 3121591703,
+        "id_str": "3121591703",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "user_id": 1408800967361970182,
+    "user_name": "Venduto Corrotto",
+    "user_screenname": "VendutoCorrotto",
+    "user_followers_count": 713,
+    "retweet_parent_id": 1588238442143662080
+  }
+]
