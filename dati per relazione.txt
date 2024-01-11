@@ -1,0 +1,12 @@
+Inglese:
+User retweet network:
+Graph has 14209 nodes and 6365 edges
+Graph has 7844 connected comp
+Node with most edges:  1593276975770222592
+
+User mention network:
+Graph has 18548 nodes and 15611 edges
+Graph has 4242 connected components
+Node with most edges:  44196397
+
+Italiano:
